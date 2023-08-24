@@ -1,0 +1,1 @@
+hose,cable,wire,puddle,road,dirt,sidewalk,tile,slab,sand,break,pit,hole,garbage,trash,border,rope,tube,parking,road bumb
